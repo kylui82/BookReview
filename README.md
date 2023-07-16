@@ -2,6 +2,7 @@
 
 ## Descricption
 - A book review website named Bookr with Django and HTML.
+- Save CSV data into database
 - Allow CRUD Operations using the default Django Admin App
 - Use ORM to define the data schema
 
